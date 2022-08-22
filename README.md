@@ -27,4 +27,4 @@ I am an 18 year old Argentine student who likes logic, computers, video games, t
 <br><br>
 
 * 📚 Studying <a href="https://computacion.dc.uba.ar/plan-de-estudios/">computer science</a> at the <b>University of Buenos Aires (UBA)</b> in the <a href="https://exactas.uba.ar/">Faculty of Exact and Natural Sciences</a>.
-* 📫 Feel free to contact me through my email if you desire ;)
+* 📫 Feel free to contact me through my email if you wish ;)
