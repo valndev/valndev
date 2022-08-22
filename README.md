@@ -11,7 +11,8 @@
 
 &nbsp;<p align="center">
 <b>He-hey! 👋</b><br>
-My name is Valentín (Valentine in english) but you can call me Valen or Val. I am an 18 year old Argentine student who likes logic, computers, video games, the gym, technology, anime, and cats (a lot).<br><br>
+My name is Valentín but you can call me Valen or Val.<br>
+I am an 18 year old Argentine student who likes logic, computers, video games, the gym, technology, anime, and cats.<br><br>
 [![email](https://img.shields.io/badge/email-me-DA70D6?style=flat-square&logo=gmail&logoColor=white)](mailto:valen@duck.com)
 
 </p>
