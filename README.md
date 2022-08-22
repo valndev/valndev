@@ -3,9 +3,11 @@
 <br><br>
 <table width="100%">
 <td width="50%">
+<div align="center">
 
 &nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzvalen_&cover_image=true&theme=natemoo-re&bar_color=DA70D6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=itzvalen_&redirect=true)
 
+</div>
 </td>
 <td width="50%">
 
