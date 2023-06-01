@@ -26,5 +26,5 @@ I am a 19-year-old Argentine student who likes logic, computers, video games, th
 </div>
 <br><br>
 
-* 📚 Studying <a href="https://computacion.dc.uba.ar/plan-de-estudios-2023/">Licenciatura en Ciencias de la Computación</a> (Bacherlor's degree + MSc in Computer Science) at the <b>University of Buenos Aires (UBA)</b>.
+* 📚 Studying <a href="https://computacion.dc.uba.ar/plan-de-estudios-2023/">Licenciatura en Ciencias de la Computación</a> (Bachelor's degree + MSc in Computer Science) at the <b>University of Buenos Aires (UBA)</b>.
 * 📫 Feel free to contact me through my email if you wish ;)
