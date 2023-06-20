@@ -22,7 +22,7 @@ I am a 19-year-old Argentine student who likes logic, computers, video games, th
 </table>
 </div>
 <div align="center">
-<img height="170px" src='https://github-readme-stats.vercel.app/api?username=valndev&show_icons=true&include_all_commits=true&title_color=fff&icon_color=DA70D6&text_color=9f9f9f&bg_color=151515' align="right">
+<img height="190px" src='https://github-readme-stats.vercel.app/api?username=valndev&show_icons=true&include_all_commits=true&hide_rank=true&card_width=300&title_color=fff&icon_color=DA70D6&text_color=9f9f9f&bg_color=151515' align="right">
 </div>
 <br><br>
 
